@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gacornews.github.io/bukit/sitemap.xml
